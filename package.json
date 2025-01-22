@@ -1,0 +1,21 @@
+{
+  "name": "alx-files_manager",
+  "version": "1.0.0",
+  "description": "alx-files_manager",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Portia201/alx-files_manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Portia201/alx-files_manager/issues"
+  },
+  "homepage": "https://github.com/Portia201/alx-files_manager#readme"
+}
